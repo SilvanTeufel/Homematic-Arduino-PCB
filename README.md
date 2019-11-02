@@ -1,4 +1,4 @@
-﻿﻿#### Hobbyists Arduino/Homematic-PCB
+﻿﻿#### Hobbyists Arduino/Homematic-PCB - designed with KiCad
 
 _designed by Teufel-Engineering - teufel-engineering.com_
 
